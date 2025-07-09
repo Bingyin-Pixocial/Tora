@@ -1,12 +1,13 @@
 *__pycache__/
 samples*/
 runs/
-checkpoints/
+ckpts/
 master_ip
 logs/
 *.DS_Store
 .idea
 /cogvideo2b
+/sat/ckpts/
 /sat/ckpts_2b_lora
 /sat/cogvideox-2b-sat
 /sat/cogvideox-5b-sat
@@ -18,3 +19,4 @@ test*
 *ossutil*
 *.pt
 *.pyc
+*.mp4
